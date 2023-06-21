@@ -7,11 +7,11 @@ const projectSchema = new mongoose.Schema({
     description: {
         type: String,
     },
-    statue: {
-        type: Number,
+    status: {
+        type: String,
         enum: ['Not Started', 'In Progress', 'Completed']
     },
-    clientID: {
+    clientId: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Client'
     },
