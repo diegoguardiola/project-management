@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c93edd88.css",
+    "main.js": "/static/js/main.ddfb4165.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/PMlogo.png": "/static/media/PMlogo.c2da53fc3a87dbade00c.png",
+    "index.html": "/index.html",
+    "main.c93edd88.css.map": "/static/css/main.c93edd88.css.map",
+    "main.ddfb4165.js.map": "/static/js/main.ddfb4165.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c93edd88.css",
+    "static/js/main.ddfb4165.js"
+  ]
+}
